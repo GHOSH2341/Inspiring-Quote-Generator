@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ececec;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.quote-container {
+  padding: 4rem;
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+#quoteOutput {
+  font-family: 'Helvetica', sans-serif;
+  letter-spacing: 1.5px;
+  line-height: 1.5;
+  font-size: 1.8rem;
+  margin-top: 1.5rem;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#authorOutput {
+  position: relative;
+  margin-top: 4rem;
+  text-align: right;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 1rem;
+}
+
+span,
+small {
+  animation: fadeIn 1s ease-out;
+}
+
+.btn {
+  padding: 12px 32px;
+  background-color: #ffaa22;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
