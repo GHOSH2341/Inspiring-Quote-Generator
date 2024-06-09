@@ -19,4 +19,4 @@ Welcome to the Inspiring-Quote-Generator! This project is a simple web applicati
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Inspiring-Quote-Generator.git
+   git clone https://github.com/GHOSH2341/Inspiring-Quote-Generator.git
