@@ -1,6 +1,6 @@
 # Inspiring-Quote-Generator
 
-Welcome to the Inspiring-Quote-Generator! This project is a simple web application that generates random inspirational quotes to brighten your day. Built with HTML, CSS, and JavaScript, it's designed to be lightweight, responsive, and easy to use.
+Welcome to the Inspiring-Quote-Generator! This is a simple web application that generates random inspirational quotes to brighten your day. Built with HTML, CSS, and JavaScript, it's designed to be lightweight, responsive, and easy to use.
 
 ## Features
 
